@@ -35,9 +35,9 @@ app.use(cors());
 
 //routes
 //user Routes
-app.use('/api/v1/users', require("./routes/userRoute"));
+app.use('/users', require("./routes/userRoute"));
 //transaction Routes
-app.use('/api/v1/transactions', require("./routes/transactionRoutes"));
+app.use('/transactions', require("./routes/transactionRoutes"));
 
 
 //static files - write only at the time of deploymnet ( deploymnet code)
