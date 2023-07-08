@@ -18,7 +18,7 @@ connectDb();
 mongoose.connect(process.env.MONGO_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true
-}).then(() => console.log('mongoose is conncted'))
+}).then(() => console.log('mongoose is connected'))
 .catch((err) => console.log(err));
 
 // const __filename = fileURLToPath(import.meta.url);
@@ -41,10 +41,10 @@ app.use('/transactions', require("./routes/transactionRoutes"));
 
 
 //static files - write only at the time of deploymnet ( deploymnet code)
-app.use(express.static(path.join(__dirname, "./client/bluid"))); 
+app.use(express.static(path.join(__dirname, './client/build'))); 
 
 app.get('*', function (req,res){
-    res.sendFile(path.join(__dirname, "./client/build/index.html"));
+    res.sendFile(path.join(__dirname, './client/build/index.html'));
 });
 
 
