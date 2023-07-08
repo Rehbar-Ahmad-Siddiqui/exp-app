@@ -1,17 +1,25 @@
 const express = require('express');
 const cors = require('cors');
 const morgan = require('morgan');
+const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const colors = require('colors');
 const path = require('path');
 // const fileURLToPath = require('url');
 const connectDb = require('./config/connectDb'); // import statement for database connection
+const { error } = require('console');
 
 // config dot env file
 dotenv.config();
 
 //database calling which was created in connectDb.js
 connectDb();
+
+mongoose.connect(process.env.MONGO_URL, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true
+}).then(() => console.log('mongoose is conncted'))
+.catch((err) => console.log(err));
 
 // const __filename = fileURLToPath(import.meta.url);
 // const __dirname = path.dirname(__filename);
