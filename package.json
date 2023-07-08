@@ -1,0 +1,26 @@
+{
+  "name": "expenseapp",
+  "version": "1.0.0",
+  "description": "This is my Capstone Project named MERN Expense Management Application created using MongoDb(M), Express(E), React(R) and NodeJs(N)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run start\" \"npm run client\" "
+  },
+  "keywords": [],
+  "author": "Rehbar Ahmad Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "concurrently": "^8.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.3.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
