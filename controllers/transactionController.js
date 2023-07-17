@@ -31,7 +31,7 @@ const deleteTransaction = async (req,res) => {
       await transactionModel.findOneAndDelete
       ({_id: req.body.transactionId});
       res.status(200).send("Transaction Deleted");
-       location.reload();
+       window.location.reload();
    } catch (error) {
      console.log(error);
      res.status(500).json(error);
@@ -43,7 +43,7 @@ const editTransaction = async (req,res) => {
       await transactionModel.findOneAndUpdate
       ({_id: req.body.transactionId}, req.body.payload);
       res.status(201).send("Transaction Updated");
-        location.reload();
+        window.location.reload();
    } catch (error) {
      console.log(error);
      res.status(500).json(error);
@@ -56,7 +56,7 @@ const addTransaction = async (req,res) => {
           const newTransaction = new transactionModel(req.body);
           await newTransaction.save();
           res.status(201).send("Transaction Created");
-            location.reload();
+            window.location.reload();
        } catch (error) {
          console.log(error);
          res.status(500).json(error);
