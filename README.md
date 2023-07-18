@@ -1,25 +1,24 @@
 # expense-app
 
-HOW TO USE THE Full Stack MERN - Expense Management Application 
+ **Welcome to Full Stack MERN - Expense Management Application.**
 
-**Step-1 : Welcome to our Login Page. If you don't have an account then please register.**
+**Welcome to our Login Page. If you don't have an account then please click on register here.**
 
 <img width="931" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/e840e614-fb94-4ae9-ab80-6608a407628e">
 
-**Step-2 : Welcome to our Registration page.**
+**Welcome to our Registration page to create your account.**
 
 <img width="900" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/df0f8ab5-122e-4544-9608-db02750b152e">
 
-**Step-3 : After Successful Login, user will be redirected to Expense Management Application Home Page.** 
-**Step-4 : In this application you can list down your income & expense by clicking on "Add New" Button.**
+**After Successful Login, user will be redirected to Expense Management Application Home Page. In this application you can list down your income & expense by clicking on "Add New" Button.** 
 
 <img width="904" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/5783655f-e2f8-4d09-8b2a-5383e6ef7457">
 
-**Step-5 : User can add new entries & click on Save Button to save the entered  Date, Amount, Type, Category, Reference and Description.**
+**User can add new entries & click on Save Button to save the entered  Date, Amount, Type, Category, Reference and Description.**
 
 <img width="896" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/80726766-2113-4ba9-81e8-39e546a1b995">
 
-**Step-6 : A message appears at the top confirming that entries are added successfully & page reloads automatically to show the added entries.**
+**A message appears at the top confirming that entries are added successfully & page reloads automatically to show the added entries.**
 
 
 ---------
