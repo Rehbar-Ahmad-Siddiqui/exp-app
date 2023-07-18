@@ -2,23 +2,27 @@
 
 HOW TO USE THE Full Stack MERN - Expense Management Application 
 
-<img width="931" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/e840e614-fb94-4ae9-ab80-6608a407628e">
-
 **Step-1 : Welcome to our Login Page. If you don't have an account then please register.**
 
-<img width="900" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/df0f8ab5-122e-4544-9608-db02750b152e">
+<img width="931" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/e840e614-fb94-4ae9-ab80-6608a407628e">
 
 **Step-2 : Welcome to our Registration page.**
 
-<img width="904" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/5783655f-e2f8-4d09-8b2a-5383e6ef7457">
+<img width="900" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/df0f8ab5-122e-4544-9608-db02750b152e">
 
 **Step-3 : After Successful Login, user will be redirected to Expense Management Application Home Page.** 
-
 **Step-4 : In this application you can list down your income & expense by clicking on "Add New" Button.**
 
-**Step-5 :Then enter the Date, Amount, Type, Category, Reference and Description.
-- 
+<img width="904" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/5783655f-e2f8-4d09-8b2a-5383e6ef7457">
 
+**Step-5 : User can add new entries & click on Save Button to save the entered  Date, Amount, Type, Category, Reference and Description.**
+
+<img width="896" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/80726766-2113-4ba9-81e8-39e546a1b995">
+
+**Step-6 : A message appears at the top confirming that entries are added successfully & page reloads automatically to show the added entries.**
+
+
+---------
 You view your data in chart form
 
 <img width="907" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/9f5f4ae1-c3aa-4728-be9c-7efcff2baa2e">
@@ -27,15 +31,13 @@ Also you can view your data in progress bar type also
 
 <img width="899" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/7eb7b052-2d70-434a-ae87-d8695757b929">
 
+--------------
+
 **You can add/update/delete new entries.** 
 
-We can add new entries & click on Save Button to save it. 
 
-<img width="896" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/80726766-2113-4ba9-81e8-39e546a1b995">
 
-A message appears at the top confirming that entries are added successfully
 
-<img width="901" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/2a36baab-16ae-4f79-a9c8-7a21eece8331">
 
 Similary we can click on edit button to edit any entries.
 
