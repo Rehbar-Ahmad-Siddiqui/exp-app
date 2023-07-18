@@ -1,6 +1,6 @@
 # expense-app
 
-# HOW TO USE THE --------------- Full Stack MERN - Expense Management Application -----------------
+HOW TO USE THE --------------- Full Stack MERN - Expense Management Application -----------------
 
 **Welcome to our Login Page**
 
