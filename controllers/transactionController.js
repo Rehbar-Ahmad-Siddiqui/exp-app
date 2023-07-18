@@ -1,7 +1,7 @@
 const transactionModel = require("../models/transactionModel");
 const moment = require('moment');
 
-
+//Get all transactions
 const getAllTransactions = async(req,res) => {
      try {
         const {frequency, selectedDate, type} = req.body;
@@ -26,6 +26,7 @@ const getAllTransactions = async(req,res) => {
      }
 };
 
+//Delete transaction
 const deleteTransaction = async (req,res) => {
    try {
       await transactionModel.findOneAndDelete
@@ -37,6 +38,7 @@ const deleteTransaction = async (req,res) => {
    }
 };
 
+//Update or Edit transaction
 const editTransaction = async (req,res) => {
    try {
       await transactionModel.findOneAndUpdate
@@ -48,7 +50,7 @@ const editTransaction = async (req,res) => {
    }
 };
 
-
+//Add transaction
 const addTransaction = async (req,res) => {
        try {
           const newTransaction = new transactionModel(req.body);
