@@ -10,7 +10,11 @@
 
 <img width="900" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/df0f8ab5-122e-4544-9608-db02750b152e">
 
-**🚀 After Successful Login, user will be redirected to Expense Management Application Home Page. In this application you can list down your income & expense by clicking on "Add New" Button.** 
+**🚀 After Successful Login, user will be redirected to Expense Management Application Home Page.** 
+
+<img width="906" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/fe4174cf-34db-452f-a9e8-72fe1643ee03">
+
+**🚀 In this application you can list down your income & expense by clicking on "Add New" Button.** 
 
 <img width="904" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/5783655f-e2f8-4d09-8b2a-5383e6ef7457">
 
