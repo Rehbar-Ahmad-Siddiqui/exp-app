@@ -21,35 +21,35 @@
 **🚀 You can add/update/delete new entries.** 
 **🚀 User can add new entries & click on Save Button to save the entered  Date, Amount, Type, Category, Reference and Description.**
 
-<img width="896" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/80726766-2113-4ba9-81e8-39e546a1b995">
+<img width="942" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/7339b9d8-7e67-412a-b338-8e683046a70d">
 
 **🚀 A message appears at the top confirming that entries are added successfully & page reloads automatically to show the added entries.**
 
-<img width="901" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/2a36baab-16ae-4f79-a9c8-7a21eece8331">
+<img width="945" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/1fbbdeb1-f14d-41ff-8666-2680ce9152b4">
 
 **🚀 Under Actions, User can click on edit button to edit any entries.**
 
-<img width="900" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/e6f94b1a-7e9a-49e1-a7d2-963b5b4847f1">
+<img width="945" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/e3a08536-58fc-4246-a810-2312ec10622d">
 
 **🚀 A message appears at the top confirming that entries are updated successfully.**
 
-<img width="891" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/6201591e-5268-4395-b3a5-078a3b4c37fb">
+<img width="946" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/ce0c8364-0648-4fdc-b89a-502f7d8cd561">
 
 **🚀 Similarly Under Actions, User can click on delete button to delete any entries & a message appears at the top confirming that entries are deleted successfully.**
 
-<img width="905" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/f4ff3535-025d-4af4-82d8-82e5c15e32ee">
+<img width="942" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/7931a2d7-33f7-4069-8da0-3fba5189f052">
 
 **🚀 User can view the data in circular progress chart type format.**
 
-<img width="907" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/9f5f4ae1-c3aa-4728-be9c-7efcff2baa2e">
+<img width="766" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/a186335e-0976-4437-ad95-71a00e5754e6">
 
 **🚀 User can view the data in line progress bar type format.**
 
-<img width="899" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/7eb7b052-2d70-434a-ae87-d8695757b929">
+<img width="939" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/c3f15525-2288-4de0-adcc-022c6a45c126">
 
 **🚀 At the right corner near the Username , User can click on Logout Button to close the application.** 
 
-<img width="894" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/55bf1ebc-daba-4a9f-a9ce-45f0717f1da0">
+<img width="945" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/342373a8-1679-41e8-bb7e-5c8359b98aac">
 
 **🚀 A message appears at the top confirming that user is logged out successfully & redirected to the Login Page.**
 
