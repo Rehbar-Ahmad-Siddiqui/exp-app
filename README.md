@@ -4,11 +4,11 @@
 
 **🚀 Welcome to our Login Page. If you don't have an account then please click on register here.**
 
-<img width="931" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/e840e614-fb94-4ae9-ab80-6608a407628e">
+<img width="945" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/dd578f71-747f-4dfb-a401-9614f3f790c5">
 
 **🚀 Welcome to our Registration page to create your account.**
 
-<img width="900" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/df0f8ab5-122e-4544-9608-db02750b152e">
+<img width="946" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/72b71b7b-0ad5-4f4a-b06f-19be736f507a">
 
 **🚀 After Successful Login, user will be redirected to Expense Management Application Home Page.** 
 
