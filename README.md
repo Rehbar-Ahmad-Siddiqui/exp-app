@@ -12,7 +12,7 @@
 
 **🚀 After Successful Login, user will be redirected to Expense Management Application Home Page.** 
 
-<img width="906" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/fe4174cf-34db-452f-a9e8-72fe1643ee03">
+<img width="943" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/64ec0ab8-ad9f-472c-a5e2-d713df11b926">
 
 **🚀 In this application you can list down your income & expense by clicking on "Add New" Button.** 
 
@@ -53,7 +53,8 @@
 
 **🚀 A message appears at the top confirming that user is logged out successfully & redirected to the Login Page.**
 
-<img width="902" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/a5f98116-c97d-4525-b361-f0975ad63f9a">
+<img width="942" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/187ef859-bfd8-484c-b6b4-af5f6ef58ff2">
+
 
 
 
