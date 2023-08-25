@@ -16,7 +16,7 @@
 
 **🚀 In this application you can list down your income & expense by clicking on "Add New" Button.** 
 
-<img width="904" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/expense-app/assets/118636385/5783655f-e2f8-4d09-8b2a-5383e6ef7457">
+<img width="945" alt="image" src="https://github.com/Rehbar-Ahmad-Siddiqui/exp-app/assets/118636385/32e9b1ca-9559-42d2-8474-ca9e557d5349">
 
 **🚀 You can add/update/delete new entries.** 
 **🚀 User can add new entries & click on Save Button to save the entered  Date, Amount, Type, Category, Reference and Description.**
