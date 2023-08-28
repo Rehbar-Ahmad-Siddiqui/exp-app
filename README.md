@@ -1,6 +1,6 @@
 # expense-app
 
-**🎉🚀 Welcome to Full Stack MERN - Expense Management Application. 🎉🚀**
+**🎉🚀  Welcome to Full Stack MERN - Expense Management Application.  🎉🚀**
 
 **🚀 Welcome to our Login Page. If you don't have an account then please click on register here.**
 
